@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://hotspot-746862957807.asia-northeast3.run.app/api/:path*"
+    }
+  ]
+}
