@@ -26,7 +26,7 @@ const WEIGHTS = {
   "입지_우위_지수": "20%",
 };
 
-const API_BASE = import.meta.env?.VITE_API_BASE || "http://localhost:8000";
+const API_BASE = import.meta.env?.VITE_API_BASE || "http://localhost:8080";
 const GOOGLE_MAPS_API_KEY = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;
 const MAIN_PURPLE = "#8A60E6";
 
